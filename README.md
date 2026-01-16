@@ -106,8 +106,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirchoudhary09&show_icons=true&theme=tokyonight" alt="Amir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirchoudhary09&theme=tokyonight" alt="Amir's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ash92744&theme=tokyonight&show_icons=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ash92744&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
 </p>
 
 ### GitHub Contributions
@@ -120,10 +124,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
 </p>
 
-### Snake Animation
+### Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amirchoudhary09/Amirchoudhary09/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ash92744/ash92744/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
 </p>
 
 ### Let's Connect!
