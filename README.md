@@ -11,11 +11,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
 </p>
 
-🎓 B.Tech in Computer Science (AIML) @ *G.L. Bajaj Institute of Technology and Management* [cite: 74, 75]
+🎓 B.Tech in Computer Science (AIML) @ *G.L. Bajaj Institute of Technology and Management*
 - [cite_start]📈 CGPA: **8.01/10** 
-- [cite_start]💻 Skilled in **MERN stack, Python, C++, SQL, Gemini AI, Machine Learning** [cite: 99, 100, 103]
+- [cite_start]💻 Skilled in **MERN stack, Python, C++, SQL, Gemini AI, Machine Learning** 
 - [cite_start]🧠 Solved **890+ DSA problems** on LeetCode & GFG (Max Rating: 1407) 
-- [cite_start]🏆 Finalist in **Adobe Emerge Hackathon 2025** (IIT Delhi) [cite: 106]
+- [cite_start]🏆 Finalist in **Adobe Emerge Hackathon 2025** (IIT Delhi) 
 - 🚀 Passionate about building AI-driven full-stack applications
 
 <p align="center">
@@ -61,7 +61,7 @@
 | [AshGuard](https://enchantress-ashguard.vercel.app/) | React, Firebase, Gemini AI, Python | Women’s safety app with SOS, chatbot, ML route planner |
 | [AI Trip Planner](https://enchantress-trips-planner.vercel.app/) | React, Firebase, Gemini AI | AI itinerary with lodging, meals, & safety integration |
 | [Enchantress Chatbot](https://enchantress-chat-bot.vercel.app/) | React, AI | Intelligent NLP assistant for task support |
-|| [Lost and Found](https://lost-and-find.vercel.app/) | MERN Stack (MongoDB, Express, React, Node.js) | Community platform with image uploads, location tagging, and an AI-powered matching algorithm |
+| [Lost and Found](https://lost-and-find.vercel.app/) | MERN Stack (MongoDB, Express, React, Node.js) | Community platform with image uploads, location tagging, and an AI-powered matching algorithm |
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
@@ -69,11 +69,11 @@
 
 ### Experience
 
-- [cite_start]🏢 **SDE Intern – Bluestocks Fintech** [cite: 45]
-    - [cite_start]React.js aur Tailwind CSS ka use karke responsive front-end features develop kiye[cite: 48].
-    - [cite_start]Reusable components (data tables, form validators) banaye jisse development speed improve hui[cite: 49].
-    - [cite_start]Express.js API endpoints ko likha aur test kiya taaki seamless data flow bana rahe[cite: 50].
-    - [cite_start]Agile stand-ups aur sprint planning mein part lekar milestones on-time deliver kiya[cite: 51].
+- [cite_start]🏢 **SDE Intern – Bluestocks Fintech** 
+    - [cite_start]React.js aur Tailwind CSS ka use karke responsive front-end features develop kiye.
+    - [cite_start]Reusable components (data tables, form validators) banaye jisse development speed improve hui.
+    - [cite_start]Express.js API endpoints ko likha aur test kiya taaki seamless data flow bana rahe.
+    - [cite_start]Agile stand-ups aur sprint planning mein part lekar milestones on-time deliver kiya.
 - [cite_start]
 
 <p align="center">
@@ -82,8 +82,8 @@
 
 ### ### Achievements
 
-- [cite_start]🏅 **Finalist (Top 10):** Adobe Emerge Hackathon 2025 (IIT Delhi) [cite: 74]
-- [cite_start]🏅 **Runner-up (Top 6):** Hack For Impact 2025 (IIIT Delhi) [cite: 75]
+- [cite_start]🏅 **Finalist (Top 10):** Adobe Emerge Hackathon 2025 (IIT Delhi) 
+- [cite_start]🏅 **Runner-up (Top 6):** Hack For Impact 2025 (IIIT Delhi) 
 - [cite_start]📈 **Solved 890+ DSA Problems:** LeetCode aur GeeksforGeeks par active problem solver (Max Rating: 1407) 
 - [cite_start]🚀 **Top 20:** Hacksprint Hackathon 
 - [cite_start]🌟 **AshGuard Project:** Bharat Shiksha 3-Day Expo ke liye select kiya gaya 
