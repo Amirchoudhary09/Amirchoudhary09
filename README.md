@@ -1,4 +1,3 @@
-<!-- Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Amir+Choudhary;Aspiring+Software+Developer;Full+Stack+Developer+%7C+MERN+%7C+Firebase;React+%7C+Node.js+%7C+Gemini+AI+%7C+ML;AI+%7C+DBMS+%7C+DSA+%7C+Networking;Welcome+to+my+GitHub+Profile!+" alt="Typing Animation">
 </p>
@@ -11,8 +10,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
 </p>
-
-
 
 🎓 B.Tech in Computer Science (AIML) @ *G.L. Bajaj Institute of Technology and Management* [cite: 74, 75]
 - [cite_start]📈 CGPA: **8.01/10** 
