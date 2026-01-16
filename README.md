@@ -68,10 +68,10 @@
 ### Experience
 
 🏢 **SDE Intern – Bluestocks Fintech** 
-    - React.js aur Tailwind CSS ka use karke responsive front-end features develop kiye.
-    - Reusable components (data tables, form validators) banaye jisse development speed improve hui.
-    - Express.js API endpoints ko likha aur test kiya taaki seamless data flow bana rahe.
-    - Agile stand-ups aur sprint planning mein part lekar milestones on-time deliver kiya.
+    -  React.js aur Tailwind CSS ka use karke responsive front-end features develop kiye.
+    -  Reusable components (data tables, form validators) banaye jisse development speed improve hui.
+    -  Express.js API endpoints ko likha aur test kiya taaki seamless data flow bana rahe.
+    -  Agile stand-ups aur sprint planning mein part lekar milestones on-time deliver kiya.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
