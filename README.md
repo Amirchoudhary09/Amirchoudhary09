@@ -59,7 +59,6 @@
 |----------------|------------|------------|
 | [AshGuard](https://enchantress-ashguard.vercel.app/) | React, Firebase, Gemini AI, Python | Women’s safety app with SOS, chatbot, ML route planner |
 | [AI Trip Planner](https://enchantress-trips-planner.vercel.app/) | React, Firebase, Gemini AI | AI itinerary with lodging, meals, & safety integration |
-| [Enchantress Chatbot](https://enchantress-chat-bot.vercel.app/) | React, AI | Intelligent NLP assistant for task support |
 | [Lost and Found](https://lost-and-find.vercel.app/) | MERN Stack (MongoDB, Express, React, Node.js) | Community platform with image uploads, location tagging, and an AI-powered matching algorithm |
 
 <p align="center">
