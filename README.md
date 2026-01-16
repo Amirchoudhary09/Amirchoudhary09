@@ -73,7 +73,6 @@
     - [cite_start]Reusable components (data tables, form validators) banaye jisse development speed improve hui.
     - [cite_start]Express.js API endpoints ko likha aur test kiya taaki seamless data flow bana rahe.
     - [cite_start]Agile stand-ups aur sprint planning mein part lekar milestones on-time deliver kiya.
-- [cite_start]
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
@@ -105,7 +104,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amirchoudhary09&theme=tokyonight&show_icons=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Amirchoudhary09&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ash92744&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
@@ -131,7 +130,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
 </p>
-
 ### Let's Connect!
 
 <p align="center">
