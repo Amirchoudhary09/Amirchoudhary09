@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Amir+Choudhary;Aspiring+Software+Developer;Full+Stack+Developer+%7C+MERN+%7C+Firebase;React+%7C+Node.js+%7C+Gemini+AI+%7C+ML;AI+%7C+DBMS+%7C+DSA+%7C+Networking;Welcome+to+my+GitHub+Profile!+" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Amir+Choudhary;Aspiring+Software+Developer;Full+Stack+Developer+%7C+MERN+%7C;React+%7C+Node.js+%7C+Gemini+AI+%7C+ML;AI+%7C+DBMS+%7C+DSA+%7C+Networking;Welcome+to+my+GitHub+Profile!+" alt="Typing Animation">
 </p>
 
 <!-- Hero Banner -->
