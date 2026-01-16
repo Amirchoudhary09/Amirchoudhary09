@@ -67,7 +67,7 @@
 
 ### Experience
 
-🏢 **SDE Intern – Bluestocks Fintech
+🏢 SDE Intern – Bluestocks Fintech
 
     -  React.js aur Tailwind CSS ka use karke responsive front-end features develop kiye.
     
@@ -81,7 +81,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
 </p>
 
-### ### Achievements
+### Achievements
 
 - 🏅 **Finalist (Top 10):** Adobe Emerge Hackathon 2025 (IIT Delhi) 
 - 🏅 **Runner-up (Top 6):** Hack For Impact 2025 (IIIT Delhi) 
@@ -107,7 +107,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amirchoudhary09&theme=tokyonight&show_icons=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ash92744&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Amirchoudhary09&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
