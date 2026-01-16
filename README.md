@@ -12,11 +12,11 @@
 </p>
 
 🎓 B.Tech in Computer Science (AIML) @ *G.L. Bajaj Institute of Technology and Management*
-- [cite_start]📈 CGPA: **8.01/10** 
-- [cite_start]💻 Skilled in **MERN stack, Python, C++, SQL, Gemini AI, Machine Learning** 
-- [cite_start]🧠 Solved **890+ DSA problems** on LeetCode & GFG (Max Rating: 1407) 
-- [cite_start]🏆 Finalist in **Adobe Emerge Hackathon 2025** (IIT Delhi) 
-- 🚀 Passionate about building AI-driven full-stack applications
+📈 CGPA: **8.01/10** 
+💻 Skilled in **MERN stack, Python, C++, SQL, Gemini AI, Machine Learning** 
+🧠 Solved **890+ DSA problems** on LeetCode & GFG (Max Rating: 1407) 
+🏆 Finalist in **Adobe Emerge Hackathon 2025** (IIT Delhi) 
+🚀 Passionate about building AI-driven full-stack applications
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
@@ -67,11 +67,11 @@
 
 ### Experience
 
-- [cite_start]🏢 **SDE Intern – Bluestocks Fintech** 
-    - [cite_start]React.js aur Tailwind CSS ka use karke responsive front-end features develop kiye.
-    - [cite_start]Reusable components (data tables, form validators) banaye jisse development speed improve hui.
-    - [cite_start]Express.js API endpoints ko likha aur test kiya taaki seamless data flow bana rahe.
-    - [cite_start]Agile stand-ups aur sprint planning mein part lekar milestones on-time deliver kiya.
+🏢 **SDE Intern – Bluestocks Fintech** 
+    - React.js aur Tailwind CSS ka use karke responsive front-end features develop kiye.
+    - Reusable components (data tables, form validators) banaye jisse development speed improve hui.
+    - Express.js API endpoints ko likha aur test kiya taaki seamless data flow bana rahe.
+    - Agile stand-ups aur sprint planning mein part lekar milestones on-time deliver kiya.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
@@ -79,11 +79,11 @@
 
 ### ### Achievements
 
-- [cite_start]🏅 **Finalist (Top 10):** Adobe Emerge Hackathon 2025 (IIT Delhi) 
-- [cite_start]🏅 **Runner-up (Top 6):** Hack For Impact 2025 (IIIT Delhi) 
-- [cite_start]📈 **Solved 890+ DSA Problems:** LeetCode aur GeeksforGeeks par active problem solver (Max Rating: 1407) 
-- [cite_start]🚀 **Top 20:** Hacksprint Hackathon 
-- [cite_start]🌟 **AshGuard Project:** Bharat Shiksha 3-Day Expo ke liye select kiya gaya 
+- 🏅 **Finalist (Top 10):** Adobe Emerge Hackathon 2025 (IIT Delhi) 
+- 🏅 **Runner-up (Top 6):** Hack For Impact 2025 (IIIT Delhi) 
+- 📈 **Solved 890+ DSA Problems:** LeetCode aur GeeksforGeeks par active problem solver (Max Rating: 1407) 
+- 🚀 **Top 20:** Hacksprint Hackathon 
+- 🌟 **AshGuard Project:** Bharat Shiksha 3-Day Expo ke liye select kiya gaya 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
