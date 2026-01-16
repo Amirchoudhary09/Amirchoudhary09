@@ -67,7 +67,7 @@
 
 ### Experience
 
-🏢 SDE Intern – Bluestocks Fintech
+- 🏢 SDE Intern – Bluestocks Fintech
 
     -  React.js aur Tailwind CSS ka use karke responsive front-end features develop kiye.
     
