@@ -12,11 +12,11 @@
 </p>
 
 🎓 B.Tech in Computer Science (AIML) @ *G.L. Bajaj Institute of Technology and Management*
-📈 CGPA: **8.01/10** 
-💻 Skilled in **MERN stack, Python, C++, SQL, Gemini AI, Machine Learning** 
-🧠 Solved **890+ DSA problems** on LeetCode & GFG (Max Rating: 1407) 
-🏆 Finalist in **Adobe Emerge Hackathon 2025** (IIT Delhi) 
-🚀 Passionate about building AI-driven full-stack applications
+- 📈 CGPA: **8.01/10** 
+- 💻 Skilled in **MERN stack, Python, C++, SQL, Gemini AI, Machine Learning** 
+- 🧠 Solved **890+ DSA problems** on LeetCode & GFG (Max Rating: 1407) 
+- 🏆 Finalist in **Adobe Emerge Hackathon 2025** (IIT Delhi) 
+- 🚀 Passionate about building AI-driven full-stack applications
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
