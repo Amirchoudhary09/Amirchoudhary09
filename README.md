@@ -67,6 +67,13 @@
 
 ### Experience
 
+- Software Development Engineer (SDE)- Wasp3D — Noida, India (Onsite)
+   - Engineered a low-level graphics rendering system using C++ and DirectX 12, implementing the complete rendering
+   - pipeline with GPU resource management (Vertex/Index Buffers, Descriptor Heaps, RTV).
+   - Designed and optimized Root Signature and Pipeline State Objects (PSO) to reduce runtime overhead and improve pipeline efficiency.
+   - Implemented modular architecture using OOP principles for device initialization, command queue, and resource handling, reducing code coupling across rendering modules.
+   - Managed Resource Barriers, GPU synchronization, and integrated HLSL shaders (Vertex & Pixel) ensuring correct state transitions, smooth frame execution, and efficient CPU-GPU data flow.
+
 - 🏢 SDE Intern – Bluestocks Fintech
 
     -  React.js aur Tailwind CSS ka use karke responsive front-end features develop kiye.
