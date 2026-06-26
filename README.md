@@ -3,9 +3,9 @@
 </p>
 
 <!-- Hero Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://camo.githubusercontent.com/62d5e37d7b55533a96b7bde4d6bcc5143072a83014ecd4989b1cae3e7f32c6a4/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966" width="100%" height="auto" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif" width="100%" height="auto" />
