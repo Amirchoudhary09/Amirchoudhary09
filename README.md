@@ -92,15 +92,14 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), working on the
 
 ## GitHub
 
+<!-- github-profile-summary-cards is used instead of github-readme-stats: the public
+     readme-stats instance is rate-limited most of the day and the activity-graph one is offline -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirchoudhary09&show_icons=true&hide_border=true&bg_color=05060a&title_color=22d3ee&icon_color=7c5cff&text_color=a8b0c2&ring_color=22d3ee" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirchoudhary09&layout=compact&hide_border=true&bg_color=05060a&title_color=22d3ee&text_color=a8b0c2&langs_count=8" height="165" alt="Most used languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amirchoudhary09&theme=github_dark&hide_logo=true&bg_color=05060a&title_color=22d3ee&text_color=a8b0c2&icon_color=7c5cff&border_color=1f2430" height="200" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amirchoudhary09&theme=github_dark&hide_logo=true&bg_color=05060a&title_color=22d3ee&text_color=a8b0c2&border_color=1f2430" height="200" alt="Most used languages">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Amirchoudhary09&hide_border=true&background=05060a&ring=7c5cff&fire=22d3ee&currStreakNum=eef1f8&sideNums=eef1f8&currStreakLabel=22d3ee&sideLabels=a8b0c2&dates=5c6780" alt="Contribution streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirchoudhary09&bg_color=05060a&color=a8b0c2&line=7c5cff&point=22d3ee&area=true&hide_border=true" width="100%" alt="Contribution graph">
 </p>
 <p align="center">
   <picture>
