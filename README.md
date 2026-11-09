@@ -23,59 +23,40 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
 
 <img src="assets/hud-quests.svg" alt="02 / Quests — Quest Log" width="100%">
 
-<table>
-  <tr>
-    <td width="190" valign="top">
-      <img src="https://img.shields.io/badge/MAIN-ACTIVE-9cff3d?style=for-the-badge&labelColor=070912" alt="Main quest, active"><br>
-      <sub><code>Apr 2026 — present</code></sub><br>
-      <sub>★★★★★</sub>
-    </td>
-    <td valign="top">
-      <b>Software Development Engineer</b> · Wasp3D, Noida (onsite)
-      <ul>
-        <li>Cut the planar-reflection pipeline from <b>2 render targets to 1</b> through render-target packing: <b>~50% less GPU bandwidth</b> at the same visual quality.</li>
-        <li>Built real-time water: ripple simulation, flow-map animation, distortion and planar reflections (+30% stability and fidelity).</li>
-        <li>Wrote and debugged HLSL vertex / pixel shaders across lighting, materials and texture sampling (−40% shader defects); optimised DirectX 9/12 render targets, textures and GPU resource management (+20% performance).</li>
-      </ul>
-      <img src="https://img.shields.io/badge/LOOT-%2B50%25%20bandwidth-9cff3d?style=flat-square&labelColor=070912" alt="+50% bandwidth">
-      <img src="https://img.shields.io/badge/LOOT-%2B30%25%20fidelity-9cff3d?style=flat-square&labelColor=070912" alt="+30% fidelity">
-      <img src="https://img.shields.io/badge/UNLOCKED-planar%20reflections-ffc83d?style=flat-square&labelColor=070912" alt="Planar reflections unlocked">
-    </td>
-  </tr>
-  <tr>
-    <td width="190" valign="top">
-      <img src="https://img.shields.io/badge/SIDE-DONE-ffc83d?style=for-the-badge&labelColor=070912" alt="Side quest, done"><br>
-      <sub><code>Mar — May 2025</code></sub><br>
-      <sub>★★★☆☆</sub>
-    </td>
-    <td valign="top">
-      <b>Software Development Engineer Intern</b> · Bluestocks Fintech, remote
-      <ul>
-        <li>Responsive services page in React + Tailwind with a modular component architecture (<b>20% faster page loads</b>); CRUD REST APIs on Express + MongoDB.</li>
-        <li>API testing in Postman with proper error handling and edge-case validation; Agile sprints with bi-weekly stakeholder demos.</li>
-      </ul>
-      <img src="https://img.shields.io/badge/LOOT-%2B20%25%20page%20load-9cff3d?style=flat-square&labelColor=070912" alt="+20% page load">
-      <img src="https://img.shields.io/badge/UNLOCKED-REST%20APIs-ffc83d?style=flat-square&labelColor=070912" alt="REST APIs unlocked">
-    </td>
-  </tr>
-  <tr>
-    <td width="190" valign="top">
-      <img src="https://img.shields.io/badge/ORIGIN-2022%E2%80%9326-19e3ff?style=for-the-badge&labelColor=070912" alt="Origin story"><br>
-      <sub><code>CGPA 8.01 / 10</code></sub><br>
-      <sub>★★★★☆</sub>
-    </td>
-    <td valign="top">
-      <b>B.Tech, Computer Science — AI &amp; Machine Learning</b> · G.L. Bajaj Institute of Technology and Management, Greater Noida
-      <ul><li>Tutorial zone: DSA, OOP, DBMS, operating systems, networks, system design. Solving problems most days since.</li></ul>
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/MAIN-ACTIVE-9cff3d?style=for-the-badge&labelColor=070912" alt="Main quest, active"> &nbsp;<code>Apr 2026 — present</code> &nbsp;★★★★★
+
+**Software Development Engineer** · Wasp3D, Noida (onsite)
+
+- Cut the planar-reflection pipeline from **2 render targets to 1** through render-target packing: **~50% less GPU bandwidth** at the same visual quality.
+- Built real-time water: ripple simulation, flow-map animation, distortion and planar reflections (+30% stability and fidelity).
+- Wrote and debugged HLSL vertex / pixel shaders across lighting, materials and texture sampling (−40% shader defects); optimised DirectX 9/12 render targets, textures and GPU resource management (+20% performance).
+
+<img src="https://img.shields.io/badge/LOOT-%2B50%25%20bandwidth-9cff3d?style=flat-square&labelColor=070912" alt="+50% bandwidth"> <img src="https://img.shields.io/badge/LOOT-%2B30%25%20fidelity-9cff3d?style=flat-square&labelColor=070912" alt="+30% fidelity"> <img src="https://img.shields.io/badge/UNLOCKED-planar%20reflections-ffc83d?style=flat-square&labelColor=070912" alt="Planar reflections unlocked">
+
+<br>
+
+<img src="https://img.shields.io/badge/SIDE-DONE-ffc83d?style=for-the-badge&labelColor=070912" alt="Side quest, done"> &nbsp;<code>Mar — May 2025</code> &nbsp;★★★☆☆
+
+**Software Development Engineer Intern** · Bluestocks Fintech, remote
+
+- Responsive services page in React + Tailwind with a modular component architecture (**20% faster page loads**); CRUD REST APIs on Express + MongoDB.
+- API testing in Postman with proper error handling and edge-case validation; Agile sprints with bi-weekly stakeholder demos.
+
+<img src="https://img.shields.io/badge/LOOT-%2B20%25%20page%20load-9cff3d?style=flat-square&labelColor=070912" alt="+20% page load"> <img src="https://img.shields.io/badge/UNLOCKED-REST%20APIs-ffc83d?style=flat-square&labelColor=070912" alt="REST APIs unlocked">
+
+<br>
+
+<img src="https://img.shields.io/badge/ORIGIN-2022%E2%80%9326-19e3ff?style=for-the-badge&labelColor=070912" alt="Origin story"> &nbsp;<code>CGPA 8.01 / 10</code> &nbsp;★★★★☆
+
+**B.Tech, Computer Science — AI & Machine Learning** · G.L. Bajaj Institute of Technology and Management, Greater Noida
+
+- Tutorial zone: DSA, OOP, DBMS, operating systems, networks, system design. Solving problems most days since.
 
 <img src="assets/hud-levels.svg" alt="03 / Levels — Select Level" width="100%">
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://enchantress-ashguard.vercel.app/"><img src="https://port-omega-rust.vercel.app/img/ashguard.webp" alt="AshGuard dashboard" width="100%"></a>
       <img src="https://img.shields.io/badge/LV%2001-BOSS%20FIGHT-ff3d8a?style=flat-square&labelColor=070912" alt="Level 1"> <img src="https://img.shields.io/badge/LIVE-200%2B%20users-9cff3d?style=flat-square&labelColor=070912" alt="Live, 200+ users"> <sub>★★★★★</sub>
       <h3>AshGuard — Women Safety &amp; Travel Assistant</h3>
@@ -83,7 +64,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
       <p><code>React</code> <code>Python</code> <code>Express</code> <code>MongoDB Atlas</code> <code>Gemini</code> <code>K-Means</code></p>
       <a href="https://enchantress-ashguard.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-9cff3d?style=for-the-badge&labelColor=9cff3d&color=9cff3d&logoColor=070912" alt="Play"></a> <a href="https://github.com/Amirchoudhary09/ASHGUARD"><img src="https://img.shields.io/badge/SOURCE-2f3a6a?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://lost-and-find-ytbs.vercel.app/"><img src="https://port-omega-rust.vercel.app/img/lostandfound.webp" alt="Lost &amp; Found platform" width="100%"></a>
       <img src="https://img.shields.io/badge/LV%2002-CO--OP-ff3d8a?style=flat-square&labelColor=070912" alt="Level 2"> <img src="https://img.shields.io/badge/LIVE-9cff3d?style=flat-square&labelColor=070912" alt="Live"> <sub>★★★★☆</sub>
       <h3>Lost &amp; Found Community Platform</h3>
@@ -91,7 +72,9 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
       <p><code>React</code> <code>Node</code> <code>Express</code> <code>MongoDB</code> <code>OAuth 2.0</code></p>
       <a href="https://lost-and-find-ytbs.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-9cff3d?style=for-the-badge&labelColor=9cff3d&color=9cff3d&logoColor=070912" alt="Play"></a> <a href="https://github.com/Amirchoudhary09/lost-and-find"><img src="https://img.shields.io/badge/SOURCE-2f3a6a?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://port-omega-rust.vercel.app/#levels"><img src="https://port-omega-rust.vercel.app/img/og.jpg" alt="Real-time water and planar reflections" width="100%"></a>
       <img src="https://img.shields.io/badge/LV%2003-FINAL%20BOSS-ff3d8a?style=flat-square&labelColor=070912" alt="Level 3"> <img src="https://img.shields.io/badge/ENGINE-Wasp3D-8f7bff?style=flat-square&labelColor=070912" alt="Wasp3D engine"> <sub>★★★★★</sub>
       <h3>Real-time Water &amp; Planar Reflections</h3>
@@ -99,9 +82,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
       <p><code>C++</code> <code>DirectX 12</code> <code>HLSL</code> <code>Render targets</code></p>
       <a href="https://port-omega-rust.vercel.app/#levels"><img src="https://img.shields.io/badge/%E2%96%B6%20DEMO-19e3ff?style=for-the-badge&labelColor=19e3ff&color=19e3ff" alt="Demo"></a> <img src="https://img.shields.io/badge/PROPRIETARY-5b6480?style=for-the-badge" alt="Proprietary engine">
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/Amirchoudhary09/Cube_by_dx12"><img src="https://port-omega-rust.vercel.app/img/dx12-cube.webp" alt="DirectX 12 textured cube and wireframe cone" width="100%"></a>
       <img src="https://img.shields.io/badge/LV%2004-DUNGEON-ff3d8a?style=flat-square&labelColor=070912" alt="Level 4"> <img src="https://img.shields.io/badge/LAB-8f7bff?style=flat-square&labelColor=070912" alt="Lab"> <sub>★★★★☆</sub>
       <h3>DirectX 12 Procedural Mesh Renderer</h3>
@@ -109,7 +90,9 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
       <p><code>C++</code> <code>DirectX 12</code> <code>Win32</code> <code>HLSL</code></p>
       <a href="https://github.com/Amirchoudhary09/Cube_by_dx12"><img src="https://img.shields.io/badge/%E2%96%B6%20SOURCE-9cff3d?style=for-the-badge&labelColor=9cff3d&color=9cff3d&logo=github&logoColor=070912" alt="Source"></a> <a href="https://github.com/Amirchoudhary09/Cone_through_DX12"><img src="https://img.shields.io/badge/CONE%20VARIANT-2f3a6a?style=for-the-badge" alt="Cone variant"></a>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/Amirchoudhary09/gen-ai"><img src="https://port-omega-rust.vercel.app/img/gemini-agent.webp" alt="Gemini coding agent terminal session" width="100%"></a>
       <img src="https://img.shields.io/badge/LV%2005-SUMMONER-ff3d8a?style=flat-square&labelColor=070912" alt="Level 5"> <img src="https://img.shields.io/badge/LAB-agents-8f7bff?style=flat-square&labelColor=070912" alt="Lab, agents"> <sub>★★★★☆</sub>
       <h3>Gemini Function-Calling Agents</h3>
@@ -117,7 +100,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
       <p><code>Node.js</code> <code>@google/genai</code> <code>Gemini 2.5 Flash</code> <code>function calling</code></p>
       <a href="https://github.com/Amirchoudhary09/gen-ai"><img src="https://img.shields.io/badge/%E2%96%B6%20SOURCE-9cff3d?style=for-the-badge&labelColor=9cff3d&color=9cff3d&logo=github&logoColor=070912" alt="Source"></a> <a href="https://github.com/Amirchoudhary09/dsa_instructor"><img src="https://img.shields.io/badge/CHATBOT%20VARIANT-2f3a6a?style=for-the-badge" alt="Chatbot variant"></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://enchantress-trips-planner.vercel.app/"><img src="https://port-omega-rust.vercel.app/img/trip_planner.webp" alt="AI Trip Planner" width="100%"></a>
       <img src="https://img.shields.io/badge/LV%2006-EXPLORER-ff3d8a?style=flat-square&labelColor=070912" alt="Level 6"> <img src="https://img.shields.io/badge/LIVE-9cff3d?style=flat-square&labelColor=070912" alt="Live"> <sub>★★★☆☆</sub>
       <h3>AI Trip Planner</h3>
@@ -136,7 +119,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
   <tr>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/GRAPHICS-LEGENDARY-ffc83d?style=flat-square&labelColor=070912" alt="Graphics, legendary"><br>
-      <img src="https://img.shields.io/badge/DirectX%2012-ffc83d?style=flat-square&labelColor=070912&color=131832&logoColor=ffc83d" alt="DirectX 12">
+      <img src="https://img.shields.io/badge/DirectX%2012-131832?style=flat-square" alt="DirectX 12">
       <img src="https://img.shields.io/badge/DirectX%209-131832?style=flat-square" alt="DirectX 9">
       <img src="https://img.shields.io/badge/HLSL%20shaders-131832?style=flat-square" alt="HLSL shaders">
       <img src="https://img.shields.io/badge/Render%20pipelines-131832?style=flat-square" alt="Render pipelines">
@@ -220,12 +203,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
 
 <img src="assets/hud-trophies.svg" alt="05 / Trophies — Achievements" width="100%">
 
-<p align="center">
-  <a href="https://leetcode.com/u/AMIR09/"><img src="assets/trophy-dsa.svg" alt="Platinum: 900+ DSA problems solved, LeetCode max rating 1600 and GeeksforGeeks" width="24%"></a>
-  <img src="assets/trophy-adobe.svg" alt="Gold: Top 3 at Adobe Emerge Hackathon 2025, IIT Delhi, national" width="24%">
-  <img src="assets/trophy-hfi.svg" alt="Silver: Top 6 at Hack For Impact 2025, IIIT Delhi" width="24%">
-  <img src="assets/trophy-hacksprint.svg" alt="Bronze: Top 10 at HackSprint Hackathon 2024, GDG GL Bajaj" width="24%">
-</p>
+<a href="https://leetcode.com/u/AMIR09/"><img src="assets/trophies.svg" alt="Trophies — Platinum: 900+ DSA problems solved (LeetCode max rating 1600, GeeksforGeeks) · Gold: Top 3 at Adobe Emerge Hackathon 2025, IIT Delhi · Silver: Top 6 at Hack For Impact 2025, IIIT Delhi · Bronze: Top 10 at HackSprint 2024, GDG GL Bajaj" width="100%"></a>
 <p align="center"><sub>Hidden achievement: AshGuard selected for the Bharat Shiksha 3-day expo.</sub></p>
 
 <img src="assets/hud-badges.svg" alt="06 / Badges — Certifications" width="100%">
@@ -295,5 +273,6 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
 <!--
   assets/*.svg (hero, hud-* headers, attributes, trophies, console, footer) are generated by
   tools/gen.js: `node tools/gen.js assets`. Fonts (Press Start 2P, Share Tech Mono, Chakra Petch)
-  are embedded as base64 so they render inside GitHub's image sandbox. Edit the script, not the SVGs.
+  are embedded as base64 so they render inside GitHub's image sandbox. Panels other than the hero
+  are authored 600px wide so they stay legible on phones. Edit the script, not the SVGs.
 -->
