@@ -52,7 +52,7 @@ function hero() {
   const bars = [['GFX', 92, C.cyan], ['WEB', 86, C.mag], ['DSA', 90, C.lime], ['AI', 78, C.gold]];
   const px = 830, py = 40, pw = 330, ph = 320;
   let card = panel(px, py, pw, ph);
-  card += `<text x="${px+18}" y="${py+30}" class="mn" font-size="13" fill="${C.mut}" letter-spacing="2">PLAYER 1</text>`;
+  card += `<text x="${px+18}" y="${py+30}" class="mn" font-size="13" fill="${C.mut}" letter-spacing="2">PLAYER 1 · LV. 2026</text>`;
   card += `<text x="${px+pw-18}" y="${py+30}" class="mn" font-size="13" fill="${C.gold}" letter-spacing="1" text-anchor="end">★ SDE @ WASP3D</text>`;
   card += `<line x1="${px}" y1="${py+44}" x2="${px+pw}" y2="${py+44}" stroke="${C.line}"/>`;
   bars.forEach(([n, v, col], i) => {
@@ -90,9 +90,9 @@ ${grid}
   <text x="48" y="140" fill="#2a0d3a">AMIR</text><text x="44" y="136" fill="${C.mag}">AMIR</text><text x="40" y="132" fill="${C.tx}">AMIR</text>
   <text x="48" y="210" fill="#2a0d3a">CHOUDHARY</text><text x="44" y="206" fill="#0b3a8a">CHOUDHARY</text><text x="40" y="202" fill="${C.cyan}">CHOUDHARY</text>
 </g>
-<rect x="40" y="236" width="372" height="30" fill="${C.gold}" fill-opacity=".12" stroke="${C.gold}"/>
+<rect x="40" y="236" width="396" height="30" fill="${C.gold}" fill-opacity=".12" stroke="${C.gold}"/>
 <rect x="52" y="247" width="8" height="8" fill="${C.lime}">${blink('1.6s')}</rect>
-<text x="70" y="257" class="mn" font-size="14" fill="${C.gold}" letter-spacing="1">CLASS: GRAPHICS ENGINEER · LV. 2026</text>
+<text x="70" y="257" class="mn" font-size="14" fill="${C.gold}" letter-spacing="1">MULTICLASS: GRAPHICS · FULL-STACK · GEN-AI</text>
 <text x="40" y="300" class="mn" font-size="18" fill="${C.cyan}">Software Development Engineer @ Wasp3D<tspan fill="${C.lime}">▌${blink('.9s')}</tspan></text>
 <text x="40" y="330" class="ui" font-size="15" fill="${C.mut}">Real-time rendering in C++ / DirectX 12 · full-stack MERN · Gemini agents · 900+ DSA</text>
 <rect x="40" y="356" width="740" height="6" fill="${C.line}"/>
