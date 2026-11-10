@@ -53,7 +53,7 @@ function hero() {
   const px = 830, py = 40, pw = 330, ph = 320;
   let card = panel(px, py, pw, ph);
   card += `<text x="${px+18}" y="${py+30}" class="mn" font-size="13" fill="${C.mut}" letter-spacing="2">PLAYER 1</text>`;
-  card += `<text x="${px+pw-18}" y="${py+30}" class="mn" font-size="13" fill="${C.gold}" letter-spacing="1" text-anchor="end">★ SDE @ WASP3D</text>`;
+  card += `<text x="${px+pw-18}" y="${py+30}" class="mn" font-size="13" fill="${C.gold}" letter-spacing="1" text-anchor="end">SDE @ WASP3D</text>`;
   card += `<line x1="${px}" y1="${py+44}" x2="${px+pw}" y2="${py+44}" stroke="${C.line}"/>`;
   bars.forEach(([n, v, col], i) => {
     const y = py + 70 + i * 36, bx = px + 66, bw = 190, fw = (bw * v / 100).toFixed(1);

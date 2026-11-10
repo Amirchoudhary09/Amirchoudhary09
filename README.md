@@ -23,7 +23,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
 
 <img src="assets/hud-quests.svg" alt="02 / Quests — Quest Log" width="100%">
 
-<img src="https://img.shields.io/badge/MAIN-ACTIVE-9cff3d?style=for-the-badge&labelColor=070912" alt="Main quest, active"> &nbsp;<code>Apr 2026 — present</code> &nbsp;★★★★★
+<img src="https://img.shields.io/badge/MAIN-ACTIVE-9cff3d?style=for-the-badge&labelColor=070912" alt="Main quest, active"> &nbsp;<code>Apr 2026 — present</code>
 
 **Software Development Engineer** · Wasp3D, Noida (onsite)
 
@@ -35,7 +35,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
 
 <br>
 
-<img src="https://img.shields.io/badge/SIDE-DONE-ffc83d?style=for-the-badge&labelColor=070912" alt="Side quest, done"> &nbsp;<code>Mar — May 2025</code> &nbsp;★★★☆☆
+<img src="https://img.shields.io/badge/SIDE-DONE-ffc83d?style=for-the-badge&labelColor=070912" alt="Side quest, done"> &nbsp;<code>Mar — May 2025</code>
 
 **Software Development Engineer Intern** · Bluestocks Fintech, remote
 
@@ -46,7 +46,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
 
 <br>
 
-<img src="https://img.shields.io/badge/ORIGIN-2022%E2%80%9326-19e3ff?style=for-the-badge&labelColor=070912" alt="Origin story"> &nbsp;<code>CGPA 8.01 / 10</code> &nbsp;★★★★☆
+<img src="https://img.shields.io/badge/ORIGIN-2022%E2%80%9326-19e3ff?style=for-the-badge&labelColor=070912" alt="Origin story"> &nbsp;<code>CGPA 8.01 / 10</code>
 
 **B.Tech, Computer Science — AI & Machine Learning** · G.L. Bajaj Institute of Technology and Management, Greater Noida
 
@@ -58,7 +58,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
   <tr>
     <td width="50%" valign="top">
       <a href="https://enchantress-ashguard.vercel.app/"><img src="https://port-omega-rust.vercel.app/img/ashguard.webp" alt="AshGuard dashboard" width="100%"></a>
-      <img src="https://img.shields.io/badge/LV%2001-BOSS%20FIGHT-ff3d8a?style=flat-square&labelColor=070912" alt="Level 1"> <img src="https://img.shields.io/badge/LIVE-200%2B%20users-9cff3d?style=flat-square&labelColor=070912" alt="Live, 200+ users"> <sub>★★★★★</sub>
+      <img src="https://img.shields.io/badge/LV%2001-BOSS%20FIGHT-ff3d8a?style=flat-square&labelColor=070912" alt="Level 1"> <img src="https://img.shields.io/badge/LIVE-200%2B%20users-9cff3d?style=flat-square&labelColor=070912" alt="Live, 200+ users">
       <h3>AshGuard — Women Safety &amp; Travel Assistant</h3>
       <p>1-tap SOS (fake call, live recording, guardian alert, siren), live location, a <b>K-Means safe-route finder</b> (93% route accuracy) and a Gemini chatbot. Top 3 at Adobe Emerge 2025.</p>
       <p><code>React</code> <code>Python</code> <code>Express</code> <code>MongoDB Atlas</code> <code>Gemini</code> <code>K-Means</code></p>
@@ -66,7 +66,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
     </td>
     <td width="50%" valign="top">
       <a href="https://lost-and-find-ytbs.vercel.app/"><img src="https://port-omega-rust.vercel.app/img/lostandfound.webp" alt="Lost &amp; Found platform" width="100%"></a>
-      <img src="https://img.shields.io/badge/LV%2002-CO--OP-ff3d8a?style=flat-square&labelColor=070912" alt="Level 2"> <img src="https://img.shields.io/badge/LIVE-9cff3d?style=flat-square&labelColor=070912" alt="Live"> <sub>★★★★☆</sub>
+      <img src="https://img.shields.io/badge/LV%2002-CO--OP-ff3d8a?style=flat-square&labelColor=070912" alt="Level 2"> <img src="https://img.shields.io/badge/LIVE-9cff3d?style=flat-square&labelColor=070912" alt="Live">
       <h3>Lost &amp; Found Community Platform</h3>
       <p>Post lost or found items with photos and location; <b>JWT + Google OAuth 2.0</b>, real-time filtering and a matching algorithm that suggests likely pairs. Query tuning made search <b>40% faster</b>.</p>
       <p><code>React</code> <code>Node</code> <code>Express</code> <code>MongoDB</code> <code>OAuth 2.0</code></p>
@@ -76,7 +76,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
   <tr>
     <td width="50%" valign="top">
       <a href="https://port-omega-rust.vercel.app/#levels"><img src="https://port-omega-rust.vercel.app/img/og.jpg" alt="Real-time water and planar reflections" width="100%"></a>
-      <img src="https://img.shields.io/badge/LV%2003-FINAL%20BOSS-ff3d8a?style=flat-square&labelColor=070912" alt="Level 3"> <img src="https://img.shields.io/badge/ENGINE-Wasp3D-8f7bff?style=flat-square&labelColor=070912" alt="Wasp3D engine"> <sub>★★★★★</sub>
+      <img src="https://img.shields.io/badge/LV%2003-FINAL%20BOSS-ff3d8a?style=flat-square&labelColor=070912" alt="Level 3"> <img src="https://img.shields.io/badge/ENGINE-Wasp3D-8f7bff?style=flat-square&labelColor=070912" alt="Wasp3D engine">
       <h3>Real-time Water &amp; Planar Reflections</h3>
       <p>Ripple simulation, flow-map animation, distortion and planar reflections shipped inside a production engine. Two reflection render targets packed into one: <b>~50% less GPU bandwidth</b>. The portfolio has a live canvas sketch of the same idea.</p>
       <p><code>C++</code> <code>DirectX 12</code> <code>HLSL</code> <code>Render targets</code></p>
@@ -84,7 +84,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Amirchoudhary09/Cube_by_dx12"><img src="https://port-omega-rust.vercel.app/img/dx12-cube.webp" alt="DirectX 12 textured cube and wireframe cone" width="100%"></a>
-      <img src="https://img.shields.io/badge/LV%2004-DUNGEON-ff3d8a?style=flat-square&labelColor=070912" alt="Level 4"> <img src="https://img.shields.io/badge/LAB-8f7bff?style=flat-square&labelColor=070912" alt="Lab"> <sub>★★★★☆</sub>
+      <img src="https://img.shields.io/badge/LV%2004-DUNGEON-ff3d8a?style=flat-square&labelColor=070912" alt="Level 4"> <img src="https://img.shields.io/badge/LAB-8f7bff?style=flat-square&labelColor=070912" alt="Lab">
       <h3>DirectX 12 Procedural Mesh Renderer</h3>
       <p>Procedural textured <b>cube and cone</b> through a hand-rolled DX12 pipeline: vertex/index buffers, root signature, constant buffer, resource barriers, swap chain, GPU fence. Lambert lighting in HLSL.</p>
       <p><code>C++</code> <code>DirectX 12</code> <code>Win32</code> <code>HLSL</code></p>
@@ -94,7 +94,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Amirchoudhary09/gen-ai"><img src="https://port-omega-rust.vercel.app/img/gemini-agent.webp" alt="Gemini coding agent terminal session" width="100%"></a>
-      <img src="https://img.shields.io/badge/LV%2005-SUMMONER-ff3d8a?style=flat-square&labelColor=070912" alt="Level 5"> <img src="https://img.shields.io/badge/LAB-agents-8f7bff?style=flat-square&labelColor=070912" alt="Lab, agents"> <sub>★★★★☆</sub>
+      <img src="https://img.shields.io/badge/LV%2005-SUMMONER-ff3d8a?style=flat-square&labelColor=070912" alt="Level 5"> <img src="https://img.shields.io/badge/LAB-agents-8f7bff?style=flat-square&labelColor=070912" alt="Lab, agents">
       <h3>Gemini Function-Calling Agents</h3>
       <p>A tool-using assistant (math, live crypto prices, weather) and a <b>terminal coding agent</b> that plans → executes → validates shell commands to scaffold a whole frontend project.</p>
       <p><code>Node.js</code> <code>@google/genai</code> <code>Gemini 2.5 Flash</code> <code>function calling</code></p>
@@ -102,7 +102,7 @@ I'm a **Software Development Engineer at Wasp3D** (Noida, India), on the renderi
     </td>
     <td width="50%" valign="top">
       <a href="https://enchantress-trips-planner.vercel.app/"><img src="https://port-omega-rust.vercel.app/img/trip_planner.webp" alt="AI Trip Planner" width="100%"></a>
-      <img src="https://img.shields.io/badge/LV%2006-EXPLORER-ff3d8a?style=flat-square&labelColor=070912" alt="Level 6"> <img src="https://img.shields.io/badge/LIVE-9cff3d?style=flat-square&labelColor=070912" alt="Live"> <sub>★★★☆☆</sub>
+      <img src="https://img.shields.io/badge/LV%2006-EXPLORER-ff3d8a?style=flat-square&labelColor=070912" alt="Level 6"> <img src="https://img.shields.io/badge/LIVE-9cff3d?style=flat-square&labelColor=070912" alt="Live">
       <h3>AI Trip Planner</h3>
       <p>Tell it where, how long and your budget; Gemini writes a <b>day-by-day itinerary</b> with hotels, meals and safety notes, saved to your account.</p>
       <p><code>React</code> <code>Vite</code> <code>Firebase</code> <code>Gemini</code></p>
